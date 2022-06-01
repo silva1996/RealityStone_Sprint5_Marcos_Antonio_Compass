@@ -20,9 +20,9 @@ Esquema do Cenário: Buscar por produos existentes
    Então deverão ser retornados resultados na busca
 
    Exemplos:
-   |produto   | 
-   |Speakers  | 
-   |Tablets   |   
-   |Laptops   |   
-   |Mice      | 
-   |Headphones| 
+   |produto    | 
+   |Speakers   | 
+   |Tablets    |   
+   |Laptops    |   
+   |Mice       | 
+   |Headphones | 
