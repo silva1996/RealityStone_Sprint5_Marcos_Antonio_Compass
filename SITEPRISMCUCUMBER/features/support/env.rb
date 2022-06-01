@@ -19,8 +19,9 @@ Capybara.register_driver :my_chrome do |app|
          caps['goog:chromeOptions']['args'] << '--headless'
     end
     
-    options = { browser: :chrome, desired_capabilities: caps}
-    Capybara::Selenium::Driver.new(app, options)
+    # options = { browser: :chrome, desired_capabilities: caps}
+
+    Capybara::Selenium::Driver.new(app,  browser: :chrome, desired_capabilities: caps)
 end
 
 Capybara.default_driver = :my_chrome
