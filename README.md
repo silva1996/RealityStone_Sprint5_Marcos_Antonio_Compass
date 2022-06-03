@@ -3,15 +3,16 @@
 # Oque foi ensinado 
 Automação Web com Ruby e Cucumber
 
-#Organização das pastas
--Gherkin_exercicio 
+# Organização das pastas
+
+.Gherkin_exercicio 
 Aprendizado sobre Análise com mapas mentais e escrita de Gherkin junto com o execicio de criação do mapa mental e criação dos cenários e realização dos testes.
 
--Projetos PD/CapybaraCucumber
+.Projetos PD/CapybaraCucumber
 Aprendizado sobre criação de um projeto com Capybara e Cucumber & Mapeamento de elementos HTML.
 
--SITEPRISMCUCUMBER
+.SITEPRISMCUCUMBER
 Aprendizado sobre a instalação do SitePrism & Configuração do projeto para execuções multi-ambient​​​​​​​e.
 
--SitePrism
+.SitePrism
 Aprendizado sobre como adicionar reports no cucumber.
