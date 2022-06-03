@@ -6,6 +6,7 @@
 # Organização das pastas
 
 - Gherkin_exercicio 
+
 Aprendizado sobre Análise com mapas mentais e escrita de Gherkin junto com o execicio de criação do mapa mental e criação dos cenários e realização dos testes.
 
 - Projetos PD/CapybaraCucumber
