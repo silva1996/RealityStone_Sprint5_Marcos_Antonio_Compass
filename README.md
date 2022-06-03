@@ -1,7 +1,7 @@
 # RealityStone_Sprint5_Marcos_Antonio_Compass
 
 # Oque foi ensinado 
-Automação Web com Ruby e Cucumber
+- Automação Web com Ruby e Cucumber
 
 # Organização das pastas
 
@@ -18,7 +18,7 @@ Aprendizado sobre a instalação do SitePrism & Configuração do projeto para e
 Aprendizado sobre como adicionar reports no cucumber.
 
 
-- AUTOR
+# AUTOR
 
 Marcos Antonio da Silva Junior
 
