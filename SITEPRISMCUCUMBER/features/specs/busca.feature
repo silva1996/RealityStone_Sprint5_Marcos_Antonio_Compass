@@ -3,7 +3,7 @@
 @search
 Funcionalidade: Busca
  COMO um usuario do Ecommerce advantegeOnlineShoping
- QUERO poder buscar por diferentes produtos
+ QUERO poder busca por diferentes produtos
  PARA poder personalizar minhas compras
 
  Contexto: Estar na home
