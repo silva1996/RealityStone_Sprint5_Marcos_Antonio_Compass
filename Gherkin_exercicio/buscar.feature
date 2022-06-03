@@ -5,6 +5,7 @@ SENDO um usuario da Neflix
 QUERO poder escolher filmes, series ou documenatarios
 PARA poder assistir 
 
+
 Contexto: Estar na home
  Dado que esteja na home
 
