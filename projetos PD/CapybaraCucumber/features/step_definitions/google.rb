@@ -3,6 +3,7 @@ Dado('que acesse a home') do
   @google_home.load
 end
   
+
 Então('deverá exibir o logo da Google') do
   expect(@google_home).to have_content 'Gmail'
   expect(@google_home).to have_css '.lnxdpd'
